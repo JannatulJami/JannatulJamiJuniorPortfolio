@@ -38,6 +38,7 @@ body {
     }
 .links a:hover {
       color: #b8a0c1;
+      background-color: #FFE6EC;
     }
 .container {
     display: flex;
